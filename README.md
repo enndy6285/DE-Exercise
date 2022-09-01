@@ -12,7 +12,7 @@ sudo apt-get install python3-pandas
 
 ## Files
 1. README.md - project documentation
-2. de_exercise.py - program for creating processesd dataset
+2. de_exercise.py - program for creating processesed dataset
 
 ## Run Instructions
 1. Save the file de_exercise.py to local directory
